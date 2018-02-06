@@ -1,7 +1,7 @@
 # EindOpdrachtCourse6
 Needs Maven to run.
 
-Author: Thijs Weenink
+Author: Thijs Weenink <br>
 Version: 1.1
 
 # Taxonomy
