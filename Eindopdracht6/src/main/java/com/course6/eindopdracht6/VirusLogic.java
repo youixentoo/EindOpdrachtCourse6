@@ -26,6 +26,7 @@ import java.util.stream.IntStream;
 /**
  *
  * @author thijs
+ * <br>Most of the logic methods used in the virus application
  */
 public class VirusLogic {
 

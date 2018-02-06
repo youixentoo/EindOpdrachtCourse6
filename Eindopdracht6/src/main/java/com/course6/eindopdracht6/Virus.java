@@ -8,6 +8,7 @@ package com.course6.eindopdracht6;
 /**
  *
  * @author thijs
+ * <br>Virus objects
  */
 public class Virus implements Comparable {
 

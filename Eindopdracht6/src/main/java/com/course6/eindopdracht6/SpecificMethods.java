@@ -15,6 +15,7 @@ import java.util.Set;
 /**
  *
  * @author thijs
+ * <br>Some highly specific methods
  */
 public class SpecificMethods {
 
